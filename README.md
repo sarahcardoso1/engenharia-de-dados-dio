@@ -6,7 +6,7 @@ Documentação do Bootcamp de Engenharia de Dados
 
 ## Índice 
 - [Git-e-github](https://github.com/sarahcardoso1/engenharia-de-dados-dio/tree/main/git) 
-- [Python]()  
+- [Python](https://github.com/sarahcardoso1/engenharia-de-dados-dio/tree/main/python)  
 - [Aprendizados de Mentorias]()
 
 ## Links úteis 
