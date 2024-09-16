@@ -11,5 +11,6 @@ Documentação do Bootcamp de Engenharia de Dados
 
 ## Links úteis 
 
--[Repositório referencial de Python](https://github.com/digitalinnovationone/trilha-python-dio/tree/main)
--[Documentação Python](https://docs.python.org/pt-br/3/)
+- [Repositório referencial de Python](https://github.com/digitalinnovationone/trilha-python-dio/tree/main)
+  
+- [Documentação Python](https://docs.python.org/pt-br/3/)
